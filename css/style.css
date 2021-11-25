@@ -1,1 +1,93 @@
-/* Add all your styles here */
+.everything{
+  background-color: #FBEEC1;
+  top: 50%;
+}
+}
+.header{
+   color: purple; 
+}
+ body{
+   font-family: sans-serif; 
+   color: #777777;
+   lines-height: 26px;
+ }
+ .right-side{
+   float: left;
+ }
+ .half-width{
+   width: 50px;
+   float: left;
+ }
+   .side-img{
+     width: 60px;
+     padding-right: 30px;
+   }
+   .primary-btn{
+     color: white;
+ 
+.header{
+   color: purple;
+}
+ .body{
+   font-family: sans-serif; 
+   color: #777777;
+   lines-height: 20px;
+ }
+ .right-side{
+   float: left;
+ }
+ .half-width{
+   width: 20px;
+   float: right;
+ }
+   .side-img{
+     width: 50px;
+     padding-left: 60px;
+   }
+   .primary-btn{
+     color: blue;
+     background-color: #8845f4
+     padding: 13px 42px 13px 42px;
+     border-radius: 20px
+     text-decoration: none;
+       }
+       h1{
+         font-size: 2.5em;
+       }
+       .container{
+         padding-left: 100%;
+         display: inline-block;
+       }
+       .experiences{
+         padding: 30px
+         margin: 30;
+         color: rgb( 238 251 255 )
+         border-radius: 30px;
+       }
+       .experiences-item{
+         padding: 10px
+         border-left: 1px rgba(137 130 247 .2 );
+                }    background-color: #8845f4
+     padding: 13px 42px 13px 42px;
+     border-radius: 20px
+     text-decoration: none;
+       }
+       h1{
+         font-size: 2.5em;
+       }
+       .container{
+         padding-left: 5%;
+         display: inline-block;
+       }
+       .experiences{
+         padding: 30px
+         margin: 30;
+         color: rgb( 238 251 255 )
+         border-radius: 30px;
+         text-align: left;
+       }
+       .experiences-item{
+         padding: 10px
+         border-left: 1px rgba(137 130 247 .2 );
+                }
+                

@@ -1,0 +1,40 @@
+.icon{
+ width: 50px;
+}
+.everything{
+  background-color: #FBEEC1;
+  background-image: url('sideimage.jpg')
+  }
+ .action{
+    border: 10px inset steelblue; font-size: 10px;
+ }
+ #sign{
+       border: 10px inset steelblue; font-size: 10px;
+ }
+      
+      #main{
+        text-align: center; 
+        
+      }
+      
+      color :  Font-size: 30px; text-align: center;
+    } 
+ h1{
+   Font-size: 40px;   text-align: center; 
+      background-color: white;
+      }
+      .socialmedia
+          {
+           color: blue; text-align: center; font-size: 33px;
+           }
+           .media{
+             text-align: center; Font-size: 32px; color: blue;
+           }
+          
+             
+          .contact{
+            background-color: ; text-align: left;
+          }
+          ul{
+            background-color: white;
+          }
