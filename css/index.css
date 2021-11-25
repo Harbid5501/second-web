@@ -2,8 +2,8 @@
  width: 50px;
 }
 .everything{
-  background-color: #FBEEC1;
-  background-image: url('sideimage.jpg')
+  background-color: #FBEEC1
+  background-image: url('sideimage.jpg');
   }
  .action{
     border: 10px inset steelblue; font-size: 10px;
