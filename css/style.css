@@ -1,5 +1,5 @@
 .everything{
-  background-color: #FBEEC1;
+ background: linear-gradient(to right,#00AAFF,#00ffac); 
   top: 50%;
 }
 }
@@ -90,4 +90,8 @@
          padding: 10px
          border-left: 1px rgba(137 130 247 .2 );
                 }
-                
+       .form .input .inputBox input[type="submit"]:active {
+    color: #006c9c;
+    margin-top: 20px;
+    box-shadow: inset -2px -2px 6px rgba(255, 255, 255, 0.1),
+    inset 2px 2px 6px rgba(0, 0, 0, 0.8);        

@@ -1,9 +1,12 @@
+.offer{
+  background-color: #131419;
+}
 .icon{
  width: 50px;
 }
      body{
-  background
-  background-img: url('sideimage_120.jpg');
+  background-color: #131419;
+  color: blue;
   }
  .action{
     border: 10px inset steelblue; font-size: 10px;
@@ -38,3 +41,16 @@
           ul{
             background-color: white;
           }
+       .sec-btn  {
+    color: #131419;
+    margin-top: 20px;
+    box-shadow: inset -2px -2px 6px rgba(255, 255, 255, 0.1),
+    inset 2px 2px 6px rgba(0, 0, 0, 0.8);
+    background-color: #131419;
+     }
+     
+    .sec-btn{
+    margin-top: 20px;
+    box-shadow: -2px -2px 6px rgba(255, 255, 255, 0.1),
+    2px 2px 6px rgba(0, 0, 0, 0.8);
+}

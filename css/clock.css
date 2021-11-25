@@ -1,0 +1,61 @@
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+}
+
+body {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+    background-color: #131419;
+}
+
+@font-face {
+    font-family: Orbitron;
+    src: url("../font/Orbitron-Regular.ttf");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#box {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    height: 100vh;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.clock {
+    width: 700px;
+    min-width: 700px;
+    height: 120px;
+    background-color: #131419;
+    line-height: 120px;
+    text-align: center;
+    padding: 0 50px;
+    -webkit-box-shadow: -3px -3px 7px rgba(255, 255, 255, 0.05), 3px 3px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: -3px -3px 7px rgba(255, 255, 255, 0.05), 3px 3px 5px rgba(0, 0, 0, 0.5)
+}
+
+.clock .display {
+    font-size: 60px;
+    color: cyan;
+    letter-spacing: 5px;
+    font-family: Orbitron, sans-serif;
+}
